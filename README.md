@@ -1,2 +1,2 @@
 # data_science_talents
-Ongoing project
+Work in progress
