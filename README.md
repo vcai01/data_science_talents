@@ -3,7 +3,7 @@ _Work in Progress_
 # know_before_you_go
 Analysis of accomodation and job landing in Vancouver
 
-##Motivation and Purpose
+## Motivation and Purpose
 Moving to a new city is exciting as well as challenging. As a data analyst and a volunteer in peer support, I have been exploring various ways to help newcomers and contribute my value to the society.
 
 I intend to use my analytical toolkits and statistical knowledge to develop an analysis as a guide for newcomers to Vancouver, which is not only a wrap-up of my immigration experience, but also an initiative of my participation and civic engagement to give back to the community.
