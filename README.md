@@ -19,8 +19,6 @@ The primary sources of data for this ongoing project are the open data from the 
 ## Approach
 I followed the CRISP-DM methodology for the project, which stands for Cross-Industry Standard Process for Data Mining. CRISP-DM provides an overview of the data mining life cycle, which consists of six phases with arrows indicating the most important and frequent dependencies between phases. The sequence of the phases is flexible and not strict.
 
-<p align="center">
-  <src="https://github.com/vcai01/know_before_you_go/blob/master/crisp_process.gif">
-</p>
+![Image of CRISP-DM](https://github.com/vcai01/know_before_you_go/blob/master/crisp_process.gif?style=centerme)">
 <div align="center"><font color=grey size=2>Image © IBM Knowledge Center</font></div>
 
