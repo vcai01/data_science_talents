@@ -16,15 +16,19 @@ Though not the primary client, an alternate client would be the staff working in
 ## Data
 The primary sources of data for this ongoing project are the open data from the City of Vancouver, The Vancouver Police Department, the Government of Canada and Public Library InterLINK as well as the scraped data from Airbnb and Indeed/Glassdoor etc.
 
-The datasets are listed corresponding to the following basic needs of newcomers:
+The datasets are listed corresponding to two basic needs of newcomers:
 
-* Finding accommodation
-1. Short term
- 1) {airbnb_listings_09Nov2019.csv}: detailed Listings data for Vancouver which was compiled by (insideairbnb.com) on November 9, 2019.
+1. Finding accommodation
+* Short term
+  -  `airbnb_listings_09Nov2019.csv`: detailed Listings data for Vancouver which was compiled by http://insideairbnb.com/ on November 9, 2019.
 
-2. Long term
+* Long term
+  - `property_tax.csv`: pending
+  - `Crimedata.csv`:pending
 
-* Landing jobs
+2. Landing jobs
+
+For detailed attribute information, please check the corresponding file.
 
 ## Approach
 I followed the CRISP-DM methodology for the project, which stands for Cross-Industry Standard Process for Data Mining. CRISP-DM provides an overview of the data mining life cycle, which consists of six phases with arrows indicating the most important and frequent dependencies between phases. The sequence of the phases is flexible and not strict.
