@@ -6,7 +6,7 @@ Analysis of accommodation and job landing in Vancouver
 ## Motivation and Purpose
 Moving to a new city is exciting as well as challenging. As a data analyst and a volunteer in peer support, I have been exploring various ways to help newcomers and contribute my value to the society.
 
-I intend to use my analytical toolkits and statistical knowledge to develop an analysis as a guide for newcomers to Vancouver, which is not only a wrap-up of my immigration experience, but also an initiative of my participation and civic engagement to give back to the community.
+I intend to use my analytical toolkits and statistical knowledge to develop an analysis as a guide for newcomers to find accommodation and getting jobs in Vancouver, which is not only a wrap-up of my immigration experience, but also an initiative of my participation and civic engagement to give back to the community.
 
 ## Target Audience
 The client for this project is any newcomer planning a relocation to Vancouver who wants a second opinion on accomodation, housing, crime and job landing here. Newcomers will be able to use the analysis to determine the community where they would like to live in the short/long term, and what jobs they plan to seek.
