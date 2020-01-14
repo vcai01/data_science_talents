@@ -1,4 +1,4 @@
-_Work in Progress_
+[**_Work in Progress_**](https://github.com/vcai01/know_before_you_go/issues)
 
 # know_before_you_go
 Analysis of accomodation and job landing in Vancouver
@@ -24,3 +24,13 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 </p>
 <div align="center"><font color=grey size=2>Image © IBM Knowledge Center</font></div>
 
+⋅⋅* Business Understanding
+⋅⋅* Data Understanding (EDA)
+⋅⋅* Data Preparation
+⋅⋅* Modeling
+⋅⋅* Evaluation
+⋅⋅* Deployment
+
+## Dependencies
+
+## Credits and Appreciation
