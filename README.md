@@ -24,12 +24,12 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 </p>
 <div align="center"><font color=grey size=2>Image © IBM Knowledge Center</font></div>
 
-⋅⋅* Business Understanding
-⋅⋅* Data Understanding (EDA)
-⋅⋅* Data Preparation
-⋅⋅* Modeling
-⋅⋅* Evaluation
-⋅⋅* Deployment
+* Business Understanding
+* Data Understanding (EDA)
+* Data Preparation
+* Modeling
+* Evaluation
+* Deployment
 
 ## Dependencies
 
