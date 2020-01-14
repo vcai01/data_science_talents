@@ -22,7 +22,8 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 <p align="center">
   <img width="350" height="349" src="https://github.com/vcai01/know_before_you_go/blob/master/crisp_process.gif">
 </p>
-<div align="center"><font color=grey size=2>Image © IBM Knowledge Center</font></div>
+###### <div align="center"><font color=grey size=2>Image © IBM Knowledge Center</font></div>
+
 
 * Business Understanding
 * Data Understanding (EDA)
