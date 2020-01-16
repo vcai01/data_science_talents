@@ -29,7 +29,7 @@ The datasets are listed corresponding to two basic needs of newcomers:
 
 * Long term
   - `property_tax.csv`: pending
-  - `Crimedata.csv`:pending
+  - `Crimedata.csv`: pending
 
 2. Landing jobs
 
@@ -52,11 +52,11 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 * Deployment
 
 ## Dependencies
-* Jupyter
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-Learn
+* Jupyter (version 4.4.0)
+* numpy (version 1.15.4)
+* pandas (version 0.23.4)
+* matplotlib (version 3.0.2)
+* scikit-Learn (version 0.20.1)
 
 ## Credits and Appreciation
 1. http://insideairbnb.com/ 
