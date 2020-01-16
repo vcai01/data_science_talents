@@ -52,11 +52,13 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 * Deployment
 
 ## Dependencies
+* beautifulsoup4 (version 4.8.2)
 * Jupyter (version 4.4.0)
-* numpy (version 1.15.4)
-* pandas (version 0.23.4)
-* matplotlib (version 3.0.2)
-* scikit-Learn (version 0.20.1)
+* numpy (version 1.18.1)
+* pandas (version 0.25.3)
+* matplotlib (version 3.1.2)
+* plotnine (version 0.6.0)
+* scikit-Learn (version 0.22.1)
 
 ## Credits and Appreciation
 1. http://insideairbnb.com/ 
