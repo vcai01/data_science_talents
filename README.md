@@ -14,13 +14,13 @@ The client for this project is any newcomer planning a relocation to Vancouver w
 Though not the primary client, an alternate client would be the staff working in settlement service organizations and the municipal government that want to better help newcomers settle and integrate in Vancouver.
 
 ## Data
-The primary sources of data for this ongoing project are the open data from the City of Vancouver, The Vancouver Police Department, the Government of Canada and Public Library InterLINK as well as the scraped data from Airbnb and Indeed/Glassdoor etc.
+The primary sources of data for this ongoing project are the open data from Airbnb, the City of Vancouver, The Vancouver Police Department, and Public Library InterLINK as well as the scraped data from the Government of Canada and Indeed/Glassdoor etc.
 
 The datasets are listed corresponding to two basic needs of newcomers:
 
 1. Finding accommodation
 * Short term
-  -  `airbnb_listings_09Nov2019.csv`: detailed Listings data for Vancouver which was compiled by http://insideairbnb.com/ on November 9, 2019.
+  -  `airbnb_listings_09Nov2019.csv`: detailed Listings data for Vancouver which was compiled on November 9, 2019.
 
 * Long term
   - `property_tax.csv`: pending
@@ -47,5 +47,11 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 * Deployment
 
 ## Dependencies
+* Jupyter
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-Learn
 
 ## Credits and Appreciation
+1. http://insideairbnb.com/ 
