@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="715" height="250" src="https://github.com/vcai01/know_before_you_go/blob/master/Vancouver-landing-size-banner.jpg">
+</p>
+<div align="right"><font color=grey size=2>Image © The City of Vancouver</font></div>
+
 [**_Work in Progress_**](https://github.com/vcai01/know_before_you_go/issues/1)
 
 # know_before_you_go
@@ -20,7 +25,7 @@ The datasets are listed corresponding to two basic needs of newcomers:
 
 1. Finding accommodation
 * Short term
-  -  `airbnb_listings_09Nov2019.csv`: detailed Listings data for Vancouver which was compiled on November 9, 2019.
+  -  `listings_09Nov2019.csv`: detailed Airbnb listings data of Vancouver which was compiled on November 9, 2019.
 
 * Long term
   - `property_tax.csv`: pending
