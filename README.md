@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="715" height="250" src="https://github.com/vcai01/know_before_you_go/blob/master/Vancouver-landing-size-banner.jpg">
+  <img width="1001" height="350" src="https://github.com/vcai01/know_before_you_go/blob/master/Vancouver-landing-size-banner.jpg">
 </p>
 <div align="right"><font color=grey size=2>Image © The City of Vancouver</font></div>
 
