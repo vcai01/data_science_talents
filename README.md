@@ -59,6 +59,8 @@ I followed the CRISP-DM methodology for the project, which stands for Cross-Indu
 * matplotlib (version 3.1.2)
 * plotnine (version 0.6.0)
 * scikit-Learn (version 0.22.1)
+* shapely (version 1.6.4)
+* Geopandas (version 0.6.1)
 
 ## Credits and Appreciation
 1. http://insideairbnb.com/ 
